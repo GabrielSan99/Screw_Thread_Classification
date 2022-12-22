@@ -1,1 +1,1 @@
-testando
+As imagens sem rosca serão mandadas para esse diretório
